@@ -1,6 +1,6 @@
 # fetch
 
-Consumindo API no frontend utilizando o framework Fetch.
+Consuming API on the frontend using the Fetch framework.
 
-npm install
+npm install <br>
 npm start
